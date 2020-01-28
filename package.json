@@ -1,0 +1,22 @@
+{
+  "name": "first-react-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aVeryShitAuthor",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {},
+  "description": "my first shit react app",
+  "repository": {
+    "type": "git",
+    "url": "shit-react-app"
+  },
+  "keywords": [
+    "shit"
+  ]
+}
